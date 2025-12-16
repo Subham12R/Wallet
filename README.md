@@ -8,5 +8,5 @@ Tech stack used:
 
 
 Demo of the component: 
-https://github.com/user-attachments/assets/25fb212a-4c0d-4020-95b7-cd373df330ae
+<img width="571" height="562" alt="image" src="https://github.com/user-attachments/assets/6619b528-5e2f-48e4-9bff-529954e9444b" />
 
