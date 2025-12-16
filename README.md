@@ -1,6 +1,3 @@
-Here’s a **clean, friendly, open-source–style README** you can directly drop into your repo. It keeps things simple, dev-friendly, and inviting 👇
-
----
 
 # 💳 Wallet Card Component
 
