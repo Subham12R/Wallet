@@ -35,8 +35,7 @@ Designed to be **easy to customize**, **developer-friendly**, and **production r
 
 ![Wallet Card Demo](https://github.com/user-attachments/assets/6619b528-5e2f-48e4-9bff-529954e9444b)
 
-🔗 **Live Preview** (optional):
-*Add your live link here*
+
 
 ---
 
